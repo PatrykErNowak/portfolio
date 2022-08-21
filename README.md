@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Management Processes in Logistic company. Recently I have started to interest of software testing and decided that i wanted to do it in every day at work. My personal goal is to constantly develop test knowledge and technical skills to become an automation tester in the future. On this site I would like to share my all gained experience from personal studies and researches.
+My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Management Processes in Logistic company. Recently I have started to interest of software testing and decided that i wanted to do it every day at work. My personal goal is to constantly develop test knowledge and technical skills to become an automation tester in the future. On this site I would like to share my all gained experience from personal studies and researches.
 ## Tools
 * [PicPick](https://picpick.app/pl/) - Screen capture software for screenshots
 * [ShareX](https://getsharex.com) - Screen capture software for record video
