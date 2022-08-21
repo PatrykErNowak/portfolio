@@ -29,6 +29,7 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 * [Testowanie oprogramowania P.Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 ## My TEST CASE examples
 ## My Bug Reports
+* [MrBuggy6](https://testowo-pn.atlassian.net/browse/MRBUG-1)
 ## My Projects
 * Individual Project - Testing MrBuggy 7
   * Main Report
