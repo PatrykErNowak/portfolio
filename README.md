@@ -32,7 +32,7 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 ## My Projects
 * Individual Project - Testing MrBuggy 7
   * Main Report
-  * Test Cases
+  * [Test Cases](https://drive.google.com/drive/folders/19p2g3N0y57Ols8BXPBgrIFIu9lwhcKYq?usp=sharing)
   * Bug Reports 
 ## SQL - self-made tasks
 * [Exercises from sqlzoo.net based on Microsoft's AdventureWorksLT database](https://github.com/nvcrox/portfolio/blob/main/Advance_Works%20Zadania.sql)
