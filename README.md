@@ -30,4 +30,8 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 ## My TEST CASE examples
 ## My Bug Reports
 ## My Projects
+* Individual Project - Testing MrBuggy 7
+  * Main Report
+  * Test Cases
+  * Bug Reports 
 ## SQL
