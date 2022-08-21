@@ -34,4 +34,5 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
   * Main Report
   * Test Cases
   * Bug Reports 
-## SQL
+## SQL - self-made tasks
+* [Exercises from sqlzoo.net based on Microsoft's AdventureWorksLT database](https://github.com/nvcrox/portfolio/blob/main/Advance_Works%20Zadania.sql)
