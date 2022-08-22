@@ -31,6 +31,7 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 * [testuj.pl](https://testuj.pl/blog/)
 * [Testowanie oprogramowania P.Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 ## My Test Cases - examples
+* Test Case - [Stokrotka Sklep](https://drive.google.com/file/d/1NMY_zbYQVzbZx_tBJGZNuzMCwhah_29m/view?usp=sharing)
 ## My Bug Reports and work with Jira - examples
 * Bug #1. [Screenshot of the bug report in Jira](https://drive.google.com/file/d/12WOwPOieVAlrGhdkW3H-U6XpZkIVYk67/view?usp=sharing)
 * Bug #2. [Screenshot of the bug report in Jira](https://drive.google.com/file/d/1vGTXQA3WtnE5rmMfIbx-x8lIvN_XYtp8/view?usp=sharing)
