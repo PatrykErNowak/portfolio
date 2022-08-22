@@ -31,6 +31,7 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 ## My Bug Reports and work with Jira - examples
 * Bug #1. [Screenshot of the bug report in Jira](https://drive.google.com/file/d/12WOwPOieVAlrGhdkW3H-U6XpZkIVYk67/view?usp=sharing)
 * Bug #2. [Screenshot of the bug report in Jira](https://drive.google.com/file/d/1vGTXQA3WtnE5rmMfIbx-x8lIvN_XYtp8/view?usp=sharing)
+* Bug #3. [Screenshot of the bug report in Jira](https://drive.google.com/file/d/1TNqLuIU1jWUYQmtbcxpY4GUV5Ps2iDMv/view?usp=sharing)
 ## My Projects
 * Individual Project - Testing MrBuggy 7
   * Main Report
