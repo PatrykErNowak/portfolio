@@ -8,13 +8,16 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 * [Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers
 * TestLink - Test management tool
 ## Technical skills
-* SQL
-* Software Testing
-* Creating test cases
-* Reporting bugs
-* SCRUM
-* KANBAN
-* UML and BPMN natation
+* #### SQL database
+  * can write complex requests using subqueries
+  * familiar with the use of aliases and wildcards
+  * know the difference between joins and unions and can use them in queries
+* #### Software Testing
+* #### Creating test cases
+* #### Reporting bugs
+* #### SCRUM
+* #### KANBAN
+* #### UML and BPMN natation
 ## Courses
 * [SQL - język zapytań od bazy danych SQL Server](https://www.udemy.com/course/kurs-sql)
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
