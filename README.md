@@ -17,7 +17,7 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 * #### Reporting bugs
 * #### SCRUM
 * #### KANBAN
-* #### UML and BPMN natation
+* #### UML natation
 ## Courses
 * [SQL - język zapytań od bazy danych SQL Server](https://www.udemy.com/course/kurs-sql)
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
@@ -31,9 +31,9 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 * [testuj.pl](https://testuj.pl/blog/)
 * [Testowanie oprogramowania P.Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 ## My Test Cases - examples
-* Test Cases Scenario - [Stokrotka - Zakup produktów z dostawą](https://drive.google.com/file/d/1fljlqdIdEFgaBWVysQPstlPHJ2QNHsNL/view?usp=sharing)
-* Test Case Examples - [Stokrotka](https://drive.google.com/drive/folders/1Ld0ocbbsGKJLqTHA1e9XewD-CRQUWrW_?usp=sharing)
-## My Bug Reports and work with Jira - examples
+* Test Cases Scenario in Polish - [Stokrotka - Zakup produktów z dostawą](https://drive.google.com/file/d/1fljlqdIdEFgaBWVysQPstlPHJ2QNHsNL/view?usp=sharing)
+* Test Case Examples in Polish - [Stokrotka](https://drive.google.com/drive/folders/1Ld0ocbbsGKJLqTHA1e9XewD-CRQUWrW_?usp=sharing)
+## My Bug Reports and work with Jira - examples in Polish
 * Bug #1. [Screenshot of the bug report in Jira](https://drive.google.com/file/d/12WOwPOieVAlrGhdkW3H-U6XpZkIVYk67/view?usp=sharing)
 * Bug #2. [Screenshot of the bug report in Jira](https://drive.google.com/file/d/1vGTXQA3WtnE5rmMfIbx-x8lIvN_XYtp8/view?usp=sharing)
 * Bug #3. [Screenshot of the bug report in Jira](https://drive.google.com/file/d/1TNqLuIU1jWUYQmtbcxpY4GUV5Ps2iDMv/view?usp=sharing)
