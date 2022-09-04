@@ -7,7 +7,8 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 * [Postman](https://www.postman.com) - Testing tool for REST API
 * [Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers
 * TestLink - Test management tool
-* Jmeter -  application designed to load test functional behavior and measure performance
+* DevTools - Web developer tools built directly into the browser
+* Jmeter - Application designed to load test functional behavior and measure performance
 ## Technical skills
 * #### SQL database
   * can write complex requests using subqueries
