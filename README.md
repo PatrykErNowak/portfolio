@@ -23,6 +23,8 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 ## Courses
 * [SQL - język zapytań od bazy danych SQL Server](https://www.udemy.com/course/kurs-sql)
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
+* [Postman od podstaw – testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api)
+* [Zarządzanie projektami](https://navoica.pl/courses/course-v1:AEH+ZP10+2022_1/about)
 ## Books
 * A.Roman, L.Stapp - Certyfikowany tester ISTQB Poziom podstawowy
 ## Groups for knowledge gathering
