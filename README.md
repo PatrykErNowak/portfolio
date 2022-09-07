@@ -31,6 +31,7 @@ My name is Patryk Nowak. Actually I am a Specialist of Returnable Packaging Mana
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 ## Blogs read
+* [remigiuszbednarczyk.pl](http://remigiuszbednarczyk.pl)
 * [testerzy.pl](https://testerzy.pl)
 * [testuj.pl](https://testuj.pl/blog/)
 * [Testowanie oprogramowania P.Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
